@@ -8,7 +8,7 @@ Analyze a retail company's sales dataset to identify revenue trends, customer be
 
 ## Tech Stack
 
-- **Database:** SQL Server (T-SQL)
+- **Database:** SQL Server 
 - **BI Tool:** Power BI Desktop (Power Query, DAX, star schema data model)
 - **Techniques used:** CTEs, window functions (`RANK`, `NTILE`, `SUM() OVER`), RFM segmentation, cohort retention analysis, DAX measures and calculated columns
 
